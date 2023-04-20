@@ -1,0 +1,31 @@
+body{
+    color: #F4F1EA;
+    font-family: 'Rufina', serif;
+    background-image: url("https://img.freepik.com/free-vector/wave-textures-cream-background-vector_53876-60290.jpg");
+}
+/* NAVBAR STYLES */
+.navbar {
+    background: #998373;
+}
+
+#logo {
+    color: #998373;
+    background-color: #F4F1EA;
+    font-family: 'Bodoni Moda', serif;
+}
+
+.nav-link {
+    color:#F4F1EA;
+    font-family: 'Rufina', serif;
+}
+
+
+/* JUMBOTRON STYLES */
+.jumbotron {
+    background-color: #998373;
+}
+
+.jumbotron-header {
+    color: #EDD6C0;
+    font-family: 'Bodoni Moda', serif;
+}
