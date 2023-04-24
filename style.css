@@ -21,7 +21,7 @@ body{
 }
 
 
-/* JUMBOTRON STYLES */
+/*JUMBOTRON STYLES */
 .jumbotron {
     background-color: #998373;
 }
@@ -29,4 +29,17 @@ body{
 .jumbotron-header {
     color: #EDD6C0;
     font-family: 'Bodoni Moda', serif;
+}
+
+/* CONTACT ME */
+.btn {
+    color: #998373;
+    background-color: #F4F1EA;
+    font-family: 'Bodoni Moda', serif; 
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #EDD6C0;
+    color: #998373
 }
