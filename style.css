@@ -43,3 +43,18 @@ body{
     background-color: #EDD6C0;
     color: #998373
 }
+
+/* FOOTER */
+footer {
+    text-align: center;
+}
+
+.footer-colored-block {
+    background-color: #998373;
+}
+
+.footer-text-block {
+    font-weight: bold;
+    background-color: #FFFBDB;
+    color:#998373;
+}
